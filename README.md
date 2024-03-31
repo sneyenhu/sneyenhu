@@ -6,7 +6,7 @@ I am currently a full time student attending ASU for a bachelors in Graphic Info
 
 I am a novice coder and have also been learning to use Adobe Creative Cloud. I am a fast learner and always eager to be on the quest for new knowledge.
 
-This is a short and messy comic I illustrated recently about a toad experiencing road rage (or as I like to call it, Toad Rage <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Worm.png" alt="Worm" width="25" height="25" /> !)  I love to create art in my free time as in addition to creating commissioned work :-) 
+This is a short and messy comic I illustrated recently about a toad experiencing road rage (or as I like to call it, Toad Rage <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Worm.png" alt="Worm" width="25" height="25" /> !)  I love to create art in my free time in addition to creating commissioned work :-) 
 
 ![Neyenhuis_06Activity](https://github.com/sneyenhu/sneyenhu/assets/163386428/70f66966-d81e-4888-991f-04e69abaeac1)
 
